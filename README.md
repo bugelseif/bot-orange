@@ -26,13 +26,13 @@ Acesse o site da [Twilio](https://www.twilio.com/), crie uma conta e ative o wha
 
 Coloque as credenciais como variáveis de ambiente ou em um arquivo de configuração (alterando no código).
 
-![credenciais da twilio](resources\twilio-credentials.png)
+![credenciais da twilio](resources/twilio-credentials.png)
 
 ## Mensagens
 O processo enviará mensagens para o número de telefone definido, emitindo alerta sobre o inicio do processo, solicitando o usuário e senha, e informando o sucesso ou falha do processo.
 
-![mensagem de alerta e usuário](resources\messages-alert-user.png)
+![mensagem de alerta e usuário](resources/messages-alert-user.png)
 
-![mensagem de senha](resources\message-password.png)
+![mensagem de senha](resources/message-password.png)
 
-![mensagem de sucesso](resources\message-success.png)
+![mensagem de sucesso](resources/message-success.png)
